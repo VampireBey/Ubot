@@ -12,8 +12,8 @@ termux-change-repo
 pkg update && pkg upgrade -y
 pkg install git python python-pip -y
 
-git clone https://github.com/ramowlf/TurkUserBot/
-cd TurkUserBot
+git clone https://github.com/VampireBey/Ubot/
+cd Ubot
 pip install -r requirements.txt
 python botaltyapikanali.py
 
